@@ -105,8 +105,8 @@ export function Footer() {
                 <Mail className="h-5 w-5 text-orange flex-shrink-0 mt-0.5" />
                 <div>
                   <p className="text-sm text-white/70">Email</p>
-                  <a href="mailto:info@fascord.com" className="text-sm hover:text-orange transition-colors">
-                    info@fascord.com
+                  <a href="mailto:info@fascord.co.uk" className="text-sm hover:text-orange transition-colors">
+                    info@fascord.co.uk
                   </a>
                 </div>
               </li>

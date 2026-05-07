@@ -13,9 +13,9 @@ export function Header() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         {/* Top bar */}
         <div className="hidden lg:flex items-center justify-end gap-6 py-2 text-sm border-b border-border/40">
-          <a href="mailto:info@fascord.com" className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors">
+          <a href="mailto:info@fascord.co.uk" className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors">
             <Mail className="h-4 w-4" />
-            info@fascord.com
+            info@fascord.co.uk
           </a>
           <a href="tel:+441onal" className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors">
             <Phone className="h-4 w-4" />
@@ -82,9 +82,9 @@ export function Header() {
                 Contact
               </Link>
               <div className="pt-4 border-t border-border/40">
-                <a href="mailto:info@fascord.com" className="flex items-center gap-2 text-sm text-muted-foreground">
+                <a href="mailto:info@fascord.co.uk" className="flex items-center gap-2 text-sm text-muted-foreground">
                   <Mail className="h-4 w-4" />
-                  info@fascord.com
+                  info@fascord.co.uk
                 </a>
               </div>
               <Button className="bg-orange text-white hover:bg-orange/90 w-full">
